@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 ### Frontend Setup
 1. Clone the repository:
-   git clone https://github.com/khevaiya/DataVistaAppFrontend.git
+   git clone https://github.com/khevaiya/DataVistaAppFrontEnd.git
    
 2. Navigate to the frontend directory:
    cd ../chata
